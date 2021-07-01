@@ -1,6 +1,14 @@
+import GlobalStyles from "./styles/global-styles";
+import { Layout } from "./components/layout";
+
 function App() {
   return (
-    <div>it's about time</div>
+    <>
+      <Layout>
+        <h1>xesque</h1>
+      </Layout>
+      <GlobalStyles />
+    </>
   );
 }
 
