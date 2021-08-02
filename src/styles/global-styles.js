@@ -13,7 +13,6 @@ export default createGlobalStyle`
   *, button, input {
     border: 0;
     background: none;
-    background-color: #000;
     font-family: 'Fira Code Light', -apple--apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif, system-ui, sans-serif;
   }
   ul {
