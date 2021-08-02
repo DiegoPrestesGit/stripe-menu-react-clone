@@ -1,4 +1,4 @@
 
-export { Products } from './Products';
-export { Developers } from './Developers';
-export { Company } from './Company';
+export { Products } from './products';
+export { Developers } from './developers';
+export { Company } from './company';
