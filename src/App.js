@@ -1,11 +1,12 @@
 import GlobalStyles from "./styles/global-styles";
 import { Layout } from "./components/layout";
+import {Navbar} from './components/navbar'
 
 function App() {
   return (
     <>
       <Layout>
-        <h1>xesque</h1>
+        <Navbar />
       </Layout>
       <GlobalStyles />
     </>
