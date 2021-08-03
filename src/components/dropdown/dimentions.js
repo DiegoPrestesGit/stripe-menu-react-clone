@@ -21,5 +21,7 @@ export function useDimentions(responsive = true) {
 
       return () => window.removeEventListener('resize', updateDimensions)
     }
-  }, [])
+  }, [element, hook, responsive])
+
+  return [hook, dimensions, element]
 }
