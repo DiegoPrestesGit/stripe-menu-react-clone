@@ -1,5 +1,5 @@
 import React from 'react'
-import { Container, Dropdown as DropdownStyles } from './styles'
+import { Container, DropdownStyles } from './styles'
 import {Products, Developers, Company} from '../content'
 import { DropdownOption, DropdownProvider, DropdownRoot } from '../dropdown'
 
