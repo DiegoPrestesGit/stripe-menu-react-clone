@@ -1,3 +1,5 @@
 export { DropdownOption } from './option'
 export { DropdownProvider } from './provider'
 export { useDimentions } from './dimentions'
+export { DropdownRoot } from './root'
+export { DropdownSection } from './section'
